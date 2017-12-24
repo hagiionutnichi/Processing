@@ -1,1 +1,2 @@
 # Processing
+Teaching myself processing!
